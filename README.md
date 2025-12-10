@@ -2,9 +2,6 @@
 
 42 Lyon student with a psychology background • curious about AI, cognition, and how humans and models think.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.mail@example.com)
-
 ---
 
 ## 🚀 What I'm doing
