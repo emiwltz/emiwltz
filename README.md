@@ -1,4 +1,4 @@
-# Hello there 👋  
+# Hello there 👋 
 
 42 Lyon student with a psychology background • curious about AI, cognition, and how humans and models think.
 
@@ -43,10 +43,4 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
 
